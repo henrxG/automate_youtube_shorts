@@ -1,7 +1,4 @@
-import os
-import shutil
-import schedule
-import time
+import os, shutil, schedule, time
 from download_insta import download
 from make_compilation import makeCompilation
 from upload_video import upload
